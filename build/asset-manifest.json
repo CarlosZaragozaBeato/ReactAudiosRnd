@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/audios_v2/static/css/main.f2f4fafd.css",
+    "main.js": "/audios_v2/static/js/main.7756adc3.js",
+    "static/media/video.mp4": "/audios_v2/static/media/video.4aaa7e46439b2aac8e61.mp4",
+    "static/media/bgDesktop.jpg": "/audios_v2/static/media/bgDesktop.0b7507888bd80067c206.jpg",
+    "index.html": "/audios_v2/index.html",
+    "main.f2f4fafd.css.map": "/audios_v2/static/css/main.f2f4fafd.css.map",
+    "main.7756adc3.js.map": "/audios_v2/static/js/main.7756adc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2f4fafd.css",
+    "static/js/main.7756adc3.js"
+  ]
+}
